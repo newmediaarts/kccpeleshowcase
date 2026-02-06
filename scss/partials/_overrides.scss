@@ -1,0 +1,444 @@
+html {
+    scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5 {
+    color: $color-gold;
+}
+
+body {
+    color: $color-blk;
+}
+
+.black {
+    background-color: $color-blk;
+    color: $color-text-body;
+}
+
+.yellow {
+    background-color: $color-red;
+}
+
+.orange {
+    background-color: $color-text-body;
+}
+
+.orange p{
+    color: $color-text-body;
+}
+
+.blue {
+    background-color: $color-blue;
+}
+
+.magenta {
+    background-color: $color-dkblue;
+}
+
+.olive {
+    background-color: $color-green;
+}
+
+.olive.last {
+    padding-bottom: 5em;
+}
+// .small-logo {
+//     width: 35%;
+//     height: auto;
+// }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.responsive-youtube {
+// width: 560px;
+// height: 315px;
+max-width: 100%;
+max-height: 100%;
+}
+@media (min-width: 0) and (max-width:425px){
+.responsive-youtube{
+width: 100%;
+// height: 198px;
+height: 100%;
+}
+}
+
+h2 {
+    font-size: 3em;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h2 strong, h3 strong {
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 2em;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4 {
+    font-family: $font-family-serif;
+    font-style: normal;
+    font-size: 1.5em;
+    padding-top: 1em;
+}
+
+h5 {
+    font-family: $font-family-serif;
+    font-style: normal;
+    font-size: 1em;
+}
+
+section#college {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    place-content: center;
+}
+
+// .web-banner {
+//     margin: 0 auto;
+//     max-width: 1400px;
+
+// }
+
+.custom-mp {
+    margin: 0;
+    padding: 0;
+    padding-top: 1em;
+}
+
+.custom-p {
+    padding-top: 0;
+    font-style: normal;
+    font-weight: 300;
+}
+
+p {
+    padding-bottom: 0em;
+    font-style: normal;
+    font-weight: 300;
+}
+
+td {
+    max-width: 35em;
+}
+
+.category {
+    // display: block;
+    max-width: 1400px;
+    margin: 0 auto;
+    font-size: 1em;
+    padding: 6%;
+    word-wrap: none;
+    overflow: hidden;
+    align-items: flex-start;
+
+}
+.category p{
+    color: $color-blk;
+
+}
+
+section#rules.black .category .row .one-half.column p{
+    color: #fff;
+}
+section.black .category p{
+    color: #fff;
+}
+
+li {
+    // padding-bottom: .5em;
+    vertical-align: top;
+    list-style: none;
+}
+
+@media (min-width: 768px) {
+    .columns2 {
+        columns: 2;
+        column-gap: 4em;
+    }
+}
+
+@media (min-width: 768px) {
+
+    #aaa .row {
+        align-items: flex-start;
+    }
+}
+
+tr,
+td,
+table,
+tbody {
+    vertical-align: top;
+}
+
+table {
+    margin: 1em;
+}
+
+#aaa p {
+    font-size: 1em;
+    font-weight: 300;
+    font-style: normal;
+}
+
+ul li,
+ol li {
+    max-width: 40em;
+}
+
+li,
+ul li {
+    font-size: 1em;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.row+row {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.about {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 2em 0 0 0;
+}
+
+.custom-block {
+    display: block;
+}
+
+// .category h3 {
+//     padding-top: .5em;
+// }
+
+.category .row {
+    align-items: flex-start;
+}
+
+.category p {
+    padding-left: 2em;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.category .no-indent, .category .no-indent2 {
+    padding-left: 0;
+}
+
+p.no-indent {
+    color: $color-text-body;
+}
+
+p.no-indent2 {
+    color: $color-blk;
+}
+
+.category .row .last-row {
+    padding: 3em 0;
+}
+
+h3.college-nmg {
+    font-family: $font-family-serif;
+    max-width: 20em;
+}
+
+.button {
+    display: inline-block;
+    background-color: $color-gold;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+    border-radius: 5px;
+    margin: 1em .5em 1em 0;
+    transition: none;
+
+    &:hover {
+        color: #fff;
+        background-color: $color-blk;
+    }
+}
+
+.button a {
+    color: white;
+    text-decoration: none;
+}
+
+.button a:hover {
+    color: white;
+    text-decoration: underline;
+}
+.thanks h3 {
+    color: $color-gray;
+}
+.thanks {
+    margin: 3em 0;
+    padding: 0 3em;
+}
+
+#top {
+    // color: #fff;
+}
+
+.blue2 {
+    color: #fff;
+    font-weight: 700;
+    font-family: $font-family-serif;
+}
+
+.blk {
+    background-color: $color-blk;
+    padding: 2em;
+}
+.blk2 {
+    color: $color-blk;
+}
+
+.blk2:hover{
+    color: $color-gold;
+}
+
+.site-header {
+    background-color: $color-blk;
+}
+
+.menu-button svg{
+    color: $color-gold;
+}
+
+section.judges h5 {
+    font-size: 1.7em;
+    padding-top: .5em;
+    padding-bottom: 0em;
+}
+
+h1.text-centered, h3.text-centered, h4.text-centered {
+    text-align: center;
+}
+
+.no-p {
+    padding: 0;
+    margin: 0;
+}
+
+.text-go {
+    font-size: 5em;
+    font-weight: 300;
+}
+.text-gold {
+    font-size: 10em;
+}
+
+
+.row3 img{
+    columns: 1;
+    padding-bottom: 1em;
+}
+
+.row img{
+    padding-bottom: 1.5em;
+}
+
+.row.no-pbottom {
+    padding: 0;
+    margin: 0;
+    // border: 1px solid orange;
+}
+.one-fifth.column img{
+    columns: 1;
+    width: 100%;
+    padding-bottom: .5em;
+
+}
+.one-fourth.column img{
+    columns: 1;
+    width: 100%;
+    padding-bottom: 1.5em;
+
+}
+@media (min-width: 768px) {
+.one-fifth.column {
+    columns: 5;
+    width: 100%;
+
+}
+.one-fourth.column {
+    columns: 4;
+    width: 100%;
+
+}
+.row3 {
+    columns: 3;
+    // padding-bottom: 1em;
+}
+
+.row img, .row3 img{
+    padding-bottom: 1em;
+}
+}
+blockquote {
+    font-size: 1.5em;
+}
+
+.smtxt {
+    font-size: .8em;
+    text-transform: uppercase;
+}
+
+.smallText {
+    font-size: .5em;
+    word-wrap: break-word;
+}
+
+ul {
+    padding-left: 0;
+}
+
+.notes-indent ul li {
+    padding-left: 1.2em;
+}
+
+.gold {
+    color: $color-gold;
+}
+.silver {
+    color: $color-silver;
+}
+.bronze {
+    color: $color-bronze;
+}
+.col-2 {
+    columns: 2;
+}
+
+.col-2 a{
+    // color: #fff;
+    color: $color-gray;
+    text-decoration: none;
+}
+.col-2 a:hover{
+    // color: $color-gray;;
+    color: $color-gold;
+    text-decoration: underline;
+}
+
+.scate {
+    text-transform: uppercase;
+    // margin-right: 1em;
+    // width: 100%;
+}

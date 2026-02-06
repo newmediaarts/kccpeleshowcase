@@ -1,0 +1,23 @@
+/* BUTTONS */
+
+.button {
+    display: inline-block;
+    background-color: $color-orange;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+    border-radius: 5px;
+    margin: 1em .5em 1em 0;
+    transition: none;
+
+    &:hover {
+        color: #fff;
+        background-color: $color-blue;
+    }
+
+}
+
+// FIX BUTTONS IN ANIMATED SECTIONS
+[data-sectionstate="active"] .container .button {
+    transition: none;
+}

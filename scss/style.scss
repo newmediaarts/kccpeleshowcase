@@ -1,0 +1,57 @@
+/* GLOBAL RESETS */
+* {
+    box-sizing: border-box;
+}
+
+// VARIABLES 
+// $color-text-body: rgba(0, 0, 0, .7);
+$color-text-body: rgba(255, 255, 255, 1);
+$color-text-headings: rgba(0, 0, 0, .7);
+$color-accent: rgb(255, 187, 0);
+$color-accent-darker: rgb(221, 162, 2);
+$color-link: rgb(0, 153, 0);
+$color-link-darker: rgb(0, 102, 0);
+$color-accent-light: rgb(0, 202, 0);
+$color-yellow: #6b5506;
+$color-orange: #eb553c;
+$color-blue: #1a969e;
+$color-dkblue: #1b4162;
+$color-magenta: #f05277;
+$color-olive: #959f3a;
+$color-red: #ce242b;
+$color-green: #286955;
+$color-gold:#D8A145;
+$color-silver:#BBBBBB;
+$color-bronze:#66450C;
+$color-blk:#000;
+$color-gray:#333;
+
+
+$color-lightgrey: rgba(0, 0, 0, .3);
+
+$font-family-sans: 'Cera Pro';
+$font-family-serif: 'Cera Pro';
+
+// BREAKPOINTS
+$breakpoint-small: 768px;
+$breakpoint-medium: 1050px;
+$breakpoint-large: 1250px;
+
+// IMPORTS
+@import "partials/toc";
+@import "partials/typography";
+@import "partials/fontface";
+@import "partials/helpers";
+@import "partials/buttons";
+@import "partials/media";
+@import "partials/layout";
+@import "partials/grid";
+@import "partials/structure";
+@import "partials/sitenav";
+@import "partials/animations";
+@import "partials/overrides";
+
+// Antique Olive Light
+// font-family: "antique-olive", sans-serif;
+// font-weight: 300; 400
+// font-style: normal; italic
