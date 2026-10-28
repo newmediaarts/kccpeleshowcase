@@ -1,0 +1,299 @@
+<svg width="700" height="700" viewBox="0 0 700 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Vector_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  4.3% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector {
+  animation: kf_Vector_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_2_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  4.25% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  9% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_2 {
+  animation: kf_Vector_2_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_3_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  9% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  13.6% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_3 {
+  animation: kf_Vector_3_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_4_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  13.6% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  17.9% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_4 {
+  animation: kf_Vector_4_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_5_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  17.9% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  22.7% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_5 {
+  animation: kf_Vector_5_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_6_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  22.7% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  26.8% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_6 {
+  animation: kf_Vector_6_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_8_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  4.3% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_8 {
+  animation: kf_Vector_8_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_9_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  4.3% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  9% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_9 {
+  animation: kf_Vector_9_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_10_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  9.05% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  13.6% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  13.64% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  13.67% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_10 {
+  animation: kf_Vector_10_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_11_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  13.6% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  13.7% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  17.95% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_11 {
+  animation: kf_Vector_11_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_12_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  17.9% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  22.7% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_12 {
+  animation: kf_Vector_12_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_13_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  22.75% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  26.8% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_13 {
+  animation: kf_Vector_13_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_14_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  26.8% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  31.2% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  36.53% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_14 {
+  animation: kf_Vector_14_opacity_0 2s linear infinite;
+}
+</style>
+<g id="pele-animated" clip-path="url(#clip0_32_303)">
+<g id="Group" transform="translate(72.1 93.1)">
+<g id="Group_2" transform="translate(302.75 2.86102e-06)">
+<path id="Vector" transform="translate(253.05 513.45)" d="M49.35 0H0V0.699989V51.45H49.35V0Z" fill="#EFAC16"/>
+<path id="Vector_2" transform="translate(202.3 411.25)" d="M50.4 0H0V51.8V102.2H49.35H50.75L50.4 51.45V0Z" fill="#EFAC16"/>
+<path id="Vector_3" transform="translate(151.55 308.35)" d="M50.75 0L0 0.350021L0.350021 51.8V103.25L50.75 102.9V51.45V0Z" fill="#EFAC16"/>
+<path id="Vector_4" transform="translate(101.15 205.45)" d="M50.4 0L0 0.349995V51.8V103.25H50.4V51.8V0Z" fill="#EFAC16"/>
+<path id="Vector_5" transform="translate(50.4 102.55)" d="M50.75 0L0 0.349995L0.349995 51.8V103.25H50.75V51.8V0Z" fill="#EFAC16"/>
+<path id="Vector_6" d="M50.4 0H0V51.45V102.9H50.4V51.45V0Z" fill="#EFAC16"/>
+</g>
+<path id="Vector_7" d="M555.8 514.15V513.45H554.4H505.05V463.05V411.25L454.65 411.6V360.15L454.3 308.7H403.9V257.25V205.8H353.5V154.35L353.15 102.9H302.75V51.45V0H252.35V51.45V102.9H201.6L201.95 154.35V205.8H151.2L151.55 257.25V308.7H100.8V360.15V411.6H50.4V463.05L0 463.4V514.15V514.85V565.6H1.4L50.75 565.25H101.15H151.55H201.95H252.7H303.1H353.5H404.25H454.65H505.05L554.75 564.9H555.8V514.15Z" fill="#FFBB43"/>
+</g>
+<g id="Group_3" transform="translate(22.75 41.65)">
+<path id="Vector_8" transform="translate(0 565.6)" d="M49.35 0H0V51.45H49.35V0.699989V0Z" fill="#FFD683"/>
+<path id="Vector_9" transform="translate(49.35 463.05)" d="M50.4 0H0V51.45H50.4V0Z" fill="#FFD683"/>
+<path id="Vector_10" transform="translate(99.75 360.15)" d="M0 51.45V102.9H50.4V51.45V0H0V51.45Z" fill="#FFD683"/>
+<path id="Vector_11" transform="translate(150.15 257.25)" d="M0 51.45V102.9H50.75V51.45L50.4 0H0V51.45Z" fill="#FFD683"/>
+<path id="Vector_12" transform="translate(200.55 154.35)" d="M0 51.45V102.9H50.75V51.45L50.4 0H0V51.45Z" fill="#FFD683"/>
+<path id="Vector_13" transform="translate(250.95 51.45)" d="M50.75 51.45V0H0V51.45V102.9H50.75V51.45Z" fill="#FFD683"/>
+<path id="Vector_14" transform="translate(301.35)" d="M50.4 0H0V51.45H50.4V0Z" fill="#FFD683"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_32_303">
+<rect width="700" height="700" fill="white"/>
+</clipPath>
+</defs>
+</svg>

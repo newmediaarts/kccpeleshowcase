@@ -1,0 +1,66 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Vector_16_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  25.35% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  25.6% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  50.57% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_16 {
+  animation: kf_Vector_16_opacity_0 2s linear infinite;
+}
+</style>
+<g id="pencil-animated" clip-path="url(#clip0_32_704)">
+<g id="Group" transform="translate(80.4 78)">
+<path id="Vector" d="M111.6 0H56.1L55.8 55.2L0.600002 54.9L0.300001 110.4L0 165.6L55.5 165.9L55.8 110.7H111L111.3 55.5L166.8 55.8V0.300001L111.6 0Z" fill="#EAEAEA"/>
+<g id="Group_2" transform="translate(55.3729 165.554)">
+<path id="Vector_2" transform="translate(0 55.4997) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#936303"/>
+<path id="Vector_3" transform="translate(55.0913 111.494) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#936303"/>
+<path id="Vector_4" transform="translate(109.884 166.888) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#936303"/>
+<path id="Vector_5" transform="translate(164.976 222.282) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#936303"/>
+<path id="Vector_6" transform="translate(220.368 277.977) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#936303"/>
+<path id="Vector_7" transform="translate(275.461 333.371) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#936303"/>
+</g>
+<g id="Group_3" transform="translate(55.3732 55.0675)">
+<path id="Vector_8" transform="translate(0 110.892) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+<path id="Vector_9" transform="translate(55.0923 166.286) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+<path id="Vector_10" transform="translate(55.6951 55.4997) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+<path id="Vector_11" transform="translate(110.485 221.981) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+<path id="Vector_12" transform="translate(165.577 277.375) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+<path id="Vector_13" transform="translate(220.369 333.069) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+<path id="Vector_14" transform="translate(275.762 388.464) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#231B1B"/>
+</g>
+<path id="Vector_15" transform="translate(386.226 499.526) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FEE5BA"/>
+<path id="Vector_16" opacity="0.584798" transform="translate(441.62 499.527) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#5E5E5E"/>
+<path id="Vector_17" transform="translate(441.621 444.134) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FEE5BA"/>
+<path id="Vector_18" transform="translate(166.461 111.169) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FFDB43"/>
+<path id="Vector_19" transform="translate(221.253 166.563) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FFDB43"/>
+<path id="Vector_20" transform="translate(276.646 221.958) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FFDB43"/>
+<path id="Vector_21" transform="translate(111 110.7)" d="M276 222.6L276.3 167.4L220.8 167.1L221.1 111.9L165.9 111.6V56.1L110.7 55.8V0.599991L55.5 0.299995L0 0V55.5L55.2 55.8L54.9 111L110.4 111.3L110.1 166.8H165.6L165.3 222.3L220.8 222.6L220.5 277.8L275.7 278.1V333.3L330.9 333.6L331.2 278.4L331.5 222.9L276 222.6Z" fill="#F5A903"/>
+<path id="Vector_22" transform="translate(331.738 277.652) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FFDB43"/>
+<path id="Vector_23" transform="translate(386.83 333.046) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FFDB43"/>
+<path id="Vector_24" transform="translate(441.922 389.04) rotate(-89.8)" d="M55.5 0H0V55.5H55.5V0Z" fill="#FFDB43"/>
+</g>
+<path id="Vector_25" transform="translate(25.5 22.2)" d="M111.3 0.3L55.8 0V55.5L0.300001 55.2L0 110.7V165.9L55.2 166.2L55.5 110.7L110.7 111L111 55.8H166.5V0.599999L111.3 0.3Z" fill="#D1036B"/>
+</g>
+<defs>
+<clipPath id="clip0_32_704">
+<rect width="600" height="600" fill="white"/>
+</clipPath>
+</defs>
+</svg>

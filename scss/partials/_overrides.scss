@@ -1,3 +1,13 @@
+:root {
+--white: #ffffff;
+    --black: #000000;
+    --yellow: #F5A903;
+    --magenta: #D1036B;
+    --cyan: #0389B9;
+    --green: #87A515;
+    --violet: #762BCE;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -11,7 +21,14 @@ body {
 }
 
 .black {
-    background-color: $color-blk;
+    // background-color: $color-blk;
+    background-image: url(../img/bg-01.jpg);
+    color: $color-text-body;
+}
+
+.white {
+    // background-color: $color-blk;
+    background-image: url(../img/bg-02.jpg);
     color: $color-text-body;
 }
 
@@ -246,7 +263,8 @@ p.no-indent {
 }
 
 p.no-indent2 {
-    color: $color-blk;
+    // color: $color-blk;
+    color: $color-text-body;
 }
 
 .category .row .last-row {
@@ -322,11 +340,15 @@ h3.college-nmg {
 }
 
 section.judges h5 {
+    font-family: $font-family-sans;
     font-size: 1.7em;
     padding-top: .5em;
     padding-bottom: 0em;
+    color: var(--yellow);
 }
-
+section.judges p {  
+    color: #ffffff;
+}
 h1.text-centered, h3.text-centered, h4.text-centered {
     text-align: center;
 }
@@ -442,4 +464,12 @@ ul {
     text-transform: uppercase;
     // margin-right: 1em;
     // width: 100%;
+}
+
+#judges a, #category a  {
+    color: $color-text-body;
+}
+
+#judges a:hover, #category a:hover {
+    color: var(--yellow);
 }

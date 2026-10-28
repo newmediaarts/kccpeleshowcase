@@ -37,7 +37,7 @@ h6 {
 
 /* BASE TEXT FONTS */
 body {
-  font-family: "Cera Pro"; }
+  font-family: "archivo", verdana, sans-serif; }
 
 h1,
 h2,
@@ -45,7 +45,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Cera Pro";
+  font-family: "lores-9-narrow", verdana, sans-serif;
   font-weight: 700;
   font-style: normal;
   color: #333; }
@@ -115,7 +115,7 @@ hr {
 /* SECTION HEADING */
 .section-heading {
   font-size: 1em;
-  font-family: "Cera Pro";
+  font-family: "lores-9-narrow", verdana, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: .05em;
@@ -556,6 +556,15 @@ section {
   -ms-transform: translate(0, 0);
   transform: translate(0, 0); }
 
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --yellow: #F5A903;
+  --magenta: #D1036B;
+  --cyan: #0389B9;
+  --green: #87A515;
+  --violet: #762BCE; }
+
 html {
   scroll-behavior: smooth; }
 
@@ -566,7 +575,11 @@ body {
   color: #000; }
 
 .black {
-  background-color: #000;
+  background-image: url(../img/bg-01.jpg);
+  color: white; }
+
+.white {
+  background-image: url(../img/bg-02.jpg);
   color: white; }
 
 .yellow {
@@ -591,9 +604,8 @@ body {
   padding-bottom: 5em; }
 
 img {
-  display: block;
   max-width: 100%;
-  height: 100%;
+  height: auto;
   object-fit: cover; }
 
 .responsive-youtube {
@@ -619,13 +631,13 @@ h3 {
   font-weight: 300; }
 
 h4 {
-  font-family: "Cera Pro";
+  font-family: "archivo", verdana, sans-serif;
   font-style: normal;
   font-size: 1.5em;
   padding-top: 1em; }
 
 h5 {
-  font-family: "Cera Pro";
+  font-family: "archivo", verdana, sans-serif;
   font-style: normal;
   font-size: 1em; }
 
@@ -752,13 +764,13 @@ p.no-indent {
   color: white; }
 
 p.no-indent2 {
-  color: #000; }
+  color: white; }
 
 .category .row .last-row {
   padding: 3em 0; }
 
 h3.college-nmg {
-  font-family: "Cera Pro";
+  font-family: "archivo", verdana, sans-serif;
   max-width: 20em; }
 
 .button {
@@ -792,7 +804,7 @@ h3.college-nmg {
 .blue2 {
   color: #fff;
   font-weight: 700;
-  font-family: "Cera Pro"; }
+  font-family: "archivo", verdana, sans-serif; }
 
 .blk {
   background-color: #000;
@@ -811,9 +823,14 @@ h3.college-nmg {
   color: #D8A145; }
 
 section.judges h5 {
+  font-family: "lores-9-narrow", verdana, sans-serif;
   font-size: 1.7em;
   padding-top: .5em;
-  padding-bottom: 0em; }
+  padding-bottom: 0em;
+  color: var(--yellow); }
+
+section.judges p {
+  color: #ffffff; }
 
 h1.text-centered, h3.text-centered, h4.text-centered {
   text-align: center; }
@@ -836,7 +853,10 @@ h1.text-centered, h3.text-centered, h4.text-centered {
   padding-bottom: 1em; }
 
 .row img {
-  padding-bottom: 1.5em; }
+  -webkit-columns: 1;
+  -moz-columns: 1;
+  columns: 1;
+  padding-bottom: 1em; }
 
 .row.no-pbottom {
   padding: 0;
@@ -847,14 +867,14 @@ h1.text-centered, h3.text-centered, h4.text-centered {
   -moz-columns: 1;
   columns: 1;
   width: 100%;
-  padding-bottom: .5em; }
+  padding-bottom: 1em; }
 
 .one-fourth.column img {
   -webkit-columns: 1;
   -moz-columns: 1;
   columns: 1;
   width: 100%;
-  padding-bottom: 1.5em; }
+  padding-bottom: 1em; }
 
 @media (min-width: 768px) {
   .one-fifth.column {
@@ -915,3 +935,9 @@ ul {
 
 .scate {
   text-transform: uppercase; }
+
+#judges a, #category a {
+  color: white; }
+
+#judges a:hover, #category a:hover {
+  color: var(--yellow); }

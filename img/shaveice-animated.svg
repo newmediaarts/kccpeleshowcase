@@ -1,0 +1,236 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Vector_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  12.31% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  25.4% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  38.3% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  50.7% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector {
+  animation: kf_Vector_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_3_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  12.73% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  25.4% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_3 {
+  animation: kf_Vector_3_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_9_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  12.31% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  25.04% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  37.71% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_9 {
+  animation: kf_Vector_9_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_12_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  12.73% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  25.45% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  38.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_12 {
+  animation: kf_Vector_12_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_17_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  12.73% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  25.4% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_17 {
+  animation: kf_Vector_17_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_27_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  12.31% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  25.04% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  37.71% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_27 {
+  animation: kf_Vector_27_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_34_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  12.73% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  25.4% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_34 {
+  animation: kf_Vector_34_opacity_0 2s linear infinite;
+}
+</style>
+<g id="shaveice-animated" clip-path="url(#clip0_37_59)">
+<g id="Group" transform="translate(82.3332 59.1)">
+<path id="Vector" opacity="0.437382" transform="translate(341.567 1.25885e-06)" d="M32.1 0L31.8 28.5V56.7H0.900009L0.599991 84.9V113.4L0.299973 141.6L0 170.1H31.2V141.9L31.5 113.4V85.2H62.4L62.7 57L63 28.5V0.299995L32.1 0Z" fill="#B18019"/>
+<g id="Group_2" transform="translate(310.067 84.9)">
+<path id="Vector_2" transform="translate(61.8 170.4)" d="M0.300018 0V28.2L0 56.7H30.9L31.2 28.5V0H0.300018Z" fill="#E7FF5C"/>
+<path id="Vector_3" transform="translate(30.7176 255.141) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#E7FF5C"/>
+<path id="Vector_4" transform="translate(-1.39999e-05 113.4)" d="M62.4 0.299995L31.5 0L31.2 28.5L0.299973 28.2V56.7L0 84.9L30.9 85.2L31.2 56.7L62.1 57L62.4 28.5V0.299995Z" fill="#E7FF5C"/>
+<path id="Vector_5" transform="translate(0.599972)" d="M31.2 56.7L31.5 28.5V0H0.599991L0.300018 28.2V56.7L0 84.9L30.9 85.2L31.2 56.7Z" fill="#E7FF5C"/>
+</g>
+<g id="Group_3" transform="translate(279.467 56.4)">
+<path id="Vector_6" transform="translate(92.7 142.2)" d="M0.300018 0V28.2L0 56.7H30.9L31.2 28.5V0H0.300018Z" fill="#BFE51F"/>
+<path id="Vector_7" transform="translate(30.3 198.6)" d="M31.2 28.5L0.300018 28.2V56.7L0 84.9L30.9 85.2L31.2 56.7L62.1 57L62.4 28.5V0.300018L31.5 0L31.2 28.5Z" fill="#BFE51F"/>
+<path id="Vector_8" transform="translate(1.46866e-05 113.4)" d="M62.1 0.299995L31.2 0V28.5L0.299995 28.2L0 56.7H30.9L61.8 57L62.1 28.5L93 28.8L93.3 0.299995H62.1Z" fill="#BFE51F"/>
+<path id="Vector_9" transform="translate(0.300007)" d="M31.2 56.7L31.5 28.5V0H0.600014V28.2L0.300018 56.7V84.9L0 113.4H30.9L31.2 85.2V56.7Z" fill="#BFE51F"/>
+</g>
+<g id="Group_4" transform="translate(248.567 56.1)">
+<path id="Vector_10" transform="translate(30.3 170.4)" d="M0.299995 56.7V84.9L0 113.4H30.9L31.2 85.2V56.7L31.5 28.5V0H0.599991V28.2L0.299995 56.7Z" fill="#B5CE4A"/>
+<path id="Vector_11" d="M62.1 142.2V113.7H31.2L31.5 85.2V57L31.8 28.5V0.299995L0.899986 0L0.599991 28.2V56.7L0.299995 85.2V113.4L0 141.9V170.1L30.9 170.4L31.2 141.9L62.1 142.2Z" fill="#B5CE4A"/>
+</g>
+<g id="Group_5" transform="translate(155.617 84)">
+<path id="Vector_12" transform="translate(61.7496 113.7)" d="M31.2 28.5V0.299995L0.299995 0V28.5L0 56.7L30.9 57V85.2L61.8 85.5L62.1 57V28.8L31.2 28.5Z" fill="#EEF484"/>
+<path id="Vector_13" transform="translate(30.2496 198.6)" d="M0.299995 28.5L0 56.7V85.2H30.9L31.2 57V28.5L31.5 0.299995L0.299995 0V28.5Z" fill="#EEF484"/>
+<path id="Vector_14" transform="translate(0.549622 -3.01361e-06)" d="M61.8 57L62.1 28.5V0.299995L31.2 0L30.9 28.5L0 28.2V56.7H30.9L30.6 85.2H61.8V57Z" fill="#EEF484"/>
+<path id="Vector_15" transform="matrix(0.00539304 -0.999985 0.999987 0.00508346 7.5531e-06 113.391)" d="M28.5 0H0V30.9H28.5V0Z" fill="#EEF484"/>
+</g>
+<g id="Group_6" transform="translate(154.967 55.8)">
+<path id="Vector_16" d="M93.3 227.1V198.9L62.4 198.6L62.7 170.4V141.9L93.6 142.2L93.9 113.7V85.5L94.2 57V28.5L94.5 0.300007L63.6 0H32.4V28.2L63.3 28.5V56.7L63 85.2V113.4H31.8V141.6H0.900009L0.600014 169.8L31.5 170.1V198.6L0.600014 198.3L0.299995 226.5V255L0 283.5H30.9L31.2 255.3V226.8L62.4 227.1L62.1 255.3V283.8L61.8 312L92.7 312.3H123.9V284.1L124.2 255.6V227.4L93.3 227.1Z" fill="#FEDB5C"/>
+<path id="Vector_17" transform="translate(1.25468 56.5463) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#FEDB5C"/>
+</g>
+<g id="Group_7" transform="translate(123.767 55.7974)">
+<path id="Vector_18" transform="translate(32.4551 28.1996) rotate(-89.7)" d="M28.2 0H0V30.9H28.2V0Z" fill="#FFA149"/>
+<path id="Vector_19" transform="translate(1.06812e-06 84.6026)" d="M1.2 0V28.5L0.900009 56.7V85.2L0.600014 113.4V141.9L0.300018 170.1V198.6L0 227.1H31.2L62.1 227.4V198.9H31.2L31.5 170.4V141.9L31.8 113.7L62.7 114V85.5L31.8 85.2L32.1 57V28.5L63 28.8L63.3 0.299995H32.4L1.2 0Z" fill="#FFA149"/>
+<path id="Vector_20" transform="translate(1.39135 56.5468) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#FFA149"/>
+</g>
+<path id="Vector_21" transform="translate(92.5668 395.4)" d="M216.9 1.19998H186L155.1 0.900009H123.9L93 0.599991H62.1L31.2 0.300018L0.300007 0L0 28.5L30.9 28.8V57L30.6 85.5H61.8L92.7 85.8V57.3L93 29.1H123.9L154.8 29.4H186L216.9 29.7H247.8V1.5L216.9 1.19998Z" fill="#A6A9B4"/>
+<g id="Group_8" transform="translate(92.8668 312.3)">
+<path id="Vector_22" transform="translate(278.7 1.37711e-05)" d="M124.2 0.299995H93.3L62.4 0L62.1 28.5L31.2 28.2L0.299973 27.9L0 56.4H30.9L62.1 56.7L93 57V28.5L124.2 28.8V0.299995Z" fill="#EFE9E8"/>
+<path id="Vector_23" transform="translate(3.43323e-06 54.9)" d="M216.9 1.19998L186 0.899963H154.8L123.9 0.599991H93L62.1 0.299973H30.9L0 0V28.2L30.9 28.5L61.8 28.8H92.7L123.6 29.1H154.8L185.7 29.4H216.6L247.5 29.7H278.7V1.5L247.8 1.19998H216.9Z" fill="#EFE9E8"/>
+</g>
+<path id="Vector_24" transform="translate(94.0959 140.092) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#EA60AC"/>
+<path id="Vector_25" transform="translate(31.0637 310.18) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#EA60AC"/>
+<path id="Vector_26" transform="translate(31.3657 281.532) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#EA60AC"/>
+<path id="Vector_27" transform="translate(31.3661 253.483) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#EA60AC"/>
+<path id="Vector_28" transform="translate(31.9681 224.835) rotate(-89.7)" d="M28.2 0H0V30.9H28.2V0Z" fill="#EA60AC"/>
+<g id="Group_9" transform="translate(-1.33514e-06 283.8)">
+<path id="Vector_29" transform="translate(371.867 -5.76019e-06)" d="M31.2 0L30.9 28.2H0V56.4L30.9 56.7L61.8 57L62.1 28.5V0H31.2Z" fill="white"/>
+<path id="Vector_30" transform="translate(278.867 56.1)" d="M30.9 0H0V28.2L30.9 28.5H61.8L92.7 28.8L93 0.300018H61.8L30.9 0Z" fill="white"/>
+<path id="Vector_31" transform="translate(30.7614 83.0766) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="white"/>
+<path id="Vector_32" transform="matrix(0.00539304 -0.999985 0.999987 0.00508346 0 54.7269)" d="M28.5 0H0V30.9H28.5V0Z" fill="white"/>
+</g>
+<g id="Group_10" transform="translate(0.301949 55.497)">
+<path id="Vector_33" transform="translate(124.856 84.8965) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#D1036B"/>
+<path id="Vector_34" transform="translate(125.158 28.1996) rotate(-89.7)" d="M28.2 0H0V30.9H28.2V0Z" fill="#D1036B"/>
+<path id="Vector_35" transform="translate(94.0944 56.5468) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#D1036B"/>
+<path id="Vector_36" transform="translate(30.7648 56.403)" d="M63.3 0H32.1V28.2L31.8 56.7L0.899998 56.4V84.9H31.8L31.5 113.4V141.6L31.2 170.1V198.3H0.300007L0 226.5L30.9 226.8V255L61.8 255.3L92.7 255.6L93 227.1V198.6L93.3 170.4V141.9L93.6 113.7V85.2L93.9 57V28.5H63L63.3 0Z" fill="#D1036B"/>
+<path id="Vector_37" transform="matrix(0.00539304 -0.999985 0.999987 0.00508346 1.19209e-08 254.382)" d="M28.5 0H0V30.9H28.5V0Z" fill="#D1036B"/>
+</g>
+<path id="Vector_38" transform="translate(0.303911 281.53) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#EA60AC"/>
+</g>
+<g id="Group_11" transform="translate(20.4 340.5)">
+<path id="Vector_39" transform="translate(495.605 30.8962) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#D0CED1"/>
+<path id="Vector_40" transform="translate(247.2 143.1)" d="M93.3 0.300018H62.1L31.2 0H0.300018L0 28.2V56.7H30.9L61.8 57H93L123.9 57.3V28.8L154.8 29.1L155.1 0.599991H124.2L93.3 0.300018Z" fill="#D0CED1"/>
+<path id="Vector_41" transform="translate(154.515 170.825) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#D0CED1"/>
+<path id="Vector_42" transform="translate(123.456 113.826) rotate(-89.7)" d="M28.5 0H0V30.9H28.5V0Z" fill="#D0CED1"/>
+<path id="Vector_43" d="M62.1 28.5L62.4 0.299995L31.5 0L31.2 28.5L0.3 28.2L0 56.7H31.2L30.9 85.2H61.8L93 85.5V57H62.1V28.5Z" fill="#D0CED1"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_37_59">
+<rect width="600" height="600" fill="white"/>
+</clipPath>
+</defs>
+</svg>
