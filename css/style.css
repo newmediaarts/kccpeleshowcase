@@ -852,6 +852,12 @@ h1.text-centered, h3.text-centered, h4.text-centered {
   columns: 1;
   padding-bottom: 1em; }
 
+.row2 img {
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns: 2;
+  padding-bottom: 1em; }
+
 .row img {
   -webkit-columns: 1;
   -moz-columns: 1;
